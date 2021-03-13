@@ -1,0 +1,9 @@
+name: MallProtect
+version: ${project.version}
+main: com.github.showwno.mallprotect.MallProtect
+api-version: 1.13
+
+commands:
+  mallprotect:
+    aliases: mallp
+    permission: mallprotect
